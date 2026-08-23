@@ -1,2 +1,2 @@
-# viewfiender
+# viewfinder
 schoolproject
